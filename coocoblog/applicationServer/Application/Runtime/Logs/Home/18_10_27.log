@@ -1,0 +1,281 @@
+[ 2018-10-27T22:32:05+08:00 ] ::1 /applicationServer/Home/Actor/GetActorList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002582s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004680s ]
+SQL: SHOW COLUMNS FROM `Actor` [ RunTime:0.0663s ]
+SQL: SELECT `actor_id`,`first_name`,`last_name` FROM `Actor` ORDER BY last_name  [ RunTime:0.0036s ]
+
+[ 2018-10-27T22:34:53+08:00 ] ::1 /applicationServer/Home/Actor/GetActorList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001403s ]
+SQL: SHOW COLUMNS FROM `Actor` [ RunTime:0.0072s ]
+SQL: SELECT `actor_id`,`first_name`,`last_name` FROM `Actor` ORDER BY last_name  [ RunTime:0.0012s ]
+
+[ 2018-10-27T22:39:02+08:00 ] ::1 /applicationServer/Home/Actor/GetActorList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000999s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001814s ]
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+SQL: SHOW COLUMNS FROM `Actor` [ RunTime:0.0074s ]
+SQL: SELECT `actor_id`,`first_name`,`last_name` FROM `Actor` ORDER BY last_name  [ RunTime:0.0014s ]
+
+[ 2018-10-27T22:39:03+08:00 ] ::1 /applicationServer/Home/Film/GetFilmListByActor/58
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000873s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000935s ]
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+SQL: SHOW COLUMNS FROM `film` [ RunTime:0.0293s ]
+SQL: SELECT * FROM `film` Right Join film_actor on film.film_id=film_actor.film_id  WHERE ( actor_id='58' ) LIMIT 5   [ RunTime:0.0209s ]
+
+[ 2018-10-27T22:44:20+08:00 ] ::1 /applicationServer/Home/Film/GetFilmListByActor/58
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002390s ]
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+SQL: SHOW COLUMNS FROM `film` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `film` Right Join film_actor on film.film_id=film_actor.film_id  WHERE ( actor_id='58' ) LIMIT 5   [ RunTime:0.0074s ]
+
+[ 2018-10-27T22:44:21+08:00 ] ::1 /applicationServer/Home/Film/GetFilmListByActor/58
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000822s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000874s ]
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+SQL: SHOW COLUMNS FROM `film` [ RunTime:0.0115s ]
+SQL: SELECT * FROM `film` Right Join film_actor on film.film_id=film_actor.film_id  WHERE ( actor_id='58' ) LIMIT 5   [ RunTime:0.0203s ]
+
+[ 2018-10-27T22:49:38+08:00 ] ::1 /applicationServer/Home/Film/GetFilmListByActor/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001852s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001947s ]
+ERR: 参数错误或者未定义:actorid
+
+[ 2018-10-27T22:51:55+08:00 ] ::1 /applicationServer/Home/Actor/GetActorList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001303s ]
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+SQL: SHOW COLUMNS FROM `Actor` [ RunTime:0.0063s ]
+SQL: SELECT `actor_id`,`first_name`,`last_name` FROM `Actor` ORDER BY last_name  [ RunTime:0.0013s ]
+
+[ 2018-10-27T22:51:55+08:00 ] ::1 /applicationServer/Home/Film/GetFilmListByActor/58
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000864s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000924s ]
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+SQL: SHOW COLUMNS FROM `film` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `film` Right Join film_actor on film.film_id=film_actor.film_id  WHERE ( actor_id='58' ) LIMIT 5   [ RunTime:0.0079s ]
+
+[ 2018-10-27T22:52:06+08:00 ] ::1 /applicationServer/Home/Film/GetFilmListByActor/115
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000852s ]
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT C:\wamp64\www\applicationServer\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+SQL: SHOW COLUMNS FROM `film` [ RunTime:0.0103s ]
+SQL: SELECT * FROM `film` Right Join film_actor on film.film_id=film_actor.film_id  WHERE ( actor_id='115' ) LIMIT 5   [ RunTime:0.0081s ]
+
